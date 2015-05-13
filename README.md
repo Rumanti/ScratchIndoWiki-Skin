@@ -10,6 +10,7 @@ Jika kamu menemukan kesalahan dalam penerjemahan, atau kesalahan lain, _fork_ re
 Terima kasih kepada JSO untuk desain orisinil, dengan kontribusi dari jvvg, blob8108, scmb1, -PRO-, dan masih banyak lagi. 
 
 Repository orisinil: https://github.com/llk/scratchwikiskin
+
 Perdiskusian Scratch-Indo-Wiki: https://scratch.mit.edu/discuss/topic/48841
 
 **English Section**
@@ -21,5 +22,6 @@ If you found any mistakes in the translation, or just any other mistakes, fork t
 Thanks to JSO for the original design, wiht contributions from jvvg, blob8108, scmb1, -PRO-, and many others. 
 
 Original Repository: https://github.com/llk/scratchwikiskin
+
 Scratch-Indo-Wiki discussion: https://scratch.mit.edu/discuss/topic/48841
 
