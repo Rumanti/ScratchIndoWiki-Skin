@@ -1,0 +1,3 @@
+- Ubah gambar dengan gambar yang benar
+- Reviewing
+- Masukan
