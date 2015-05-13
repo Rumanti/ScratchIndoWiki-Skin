@@ -115,8 +115,8 @@ class ScratchWikiSkinTemplate extends BaseTemplate{
 				<h1>Bantu wiki ini!</h1>
 				<div class=box-content>
 				Scratch-Indo-Wiki dibuat oleh dan untuk Scratcher. Apakah kamu ingin membantu?<br><br>
-				<a href="/wiki/Scratch_Wiki:Bergabung">Cari lebih jauh tentang bergabung sebagai kontributor!</a><br><br>
-				<a href = "/wiki/Halaman_Pembicaraan:Scratch_Wiki:Portal Komunitas">Lihat perdiskusian di Portal Komunitas</a>
+				<a href="/wiki/Scratch-Indo-Wiki:Bergabung">Cari lebih jauh tentang bergabung sebagai kontributor!</a><br><br>
+				<a href = "/wiki/Halaman_Pembicaraan_Scratch-Indo-Wiki:Portal Komunitas">Lihat perdiskusian di Portal Komunitas</a>
 				</div>
 				
 			</div>
@@ -257,7 +257,7 @@ foreach ( $footerlinks as $aLink ) {
             </li>
           </ul>
 <br>
-<p >Scratch ada sebuah proyek dari Lifelong Kindergarten Group di MIT Media Lab</p>
+<p >Scratch adalah sebuah proyek dari Lifelong Kindergarten Group di MIT Media Lab</p>
 </footer>
 
         <?php $this->printTrail(); ?>
