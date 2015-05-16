@@ -19,7 +19,7 @@ This is the source code for Indonesian Scratch Wiki's Scratch Wiki skin with lat
 
 If you found any mistakes in the translation, or just any other mistakes, fork this repository, fix the mistake, and make a pull request with complete description. This will be very helpful in improving and fixing mistakes.
 
-Thanks to JSO for the original design, wiht contributions from jvvg, blob8108, scmb1, -PRO-, and many others. 
+Thanks to JSO for the original design, with contributions from jvvg, blob8108, scmb1, -PRO-, and many others. 
 
 Original Repository: https://github.com/llk/scratchwikiskin
 
