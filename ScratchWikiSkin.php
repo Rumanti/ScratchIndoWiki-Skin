@@ -48,18 +48,17 @@ class ScratchWikiSkinTemplate extends BaseTemplate{
 <header>
 	<div class="container">
 		
-			<a class= "scratch" href = "http://scratch.mit.edu"></a>
+			<a class= "scratch" href = "https://scratch.mit.edu"></a>
 		
 		<ul class="left">
-			<li><a href="http://scratch.mit.edu/projects/editor/">Buat</a></li>
-			<li><a href="http://scratch.mit.edu/explore/?date=this_month">Jelajah</a></li>
-			<li><a href="http://scratch.mit.edu/discuss/">Diskusi</a></li>
-			<li class = "last"><a href="http://scratch.mit.edu/help/">Bantuan</a></li>
+			<li><a href="https://scratch.mit.edu/projects/editor/">Buat</a></li>
+			<li><a href="https://scratch.mit.edu/explore/?date=this_month">Jelajah</a></li>
+			<li><a href="https://scratch.mit.edu/discuss/">Diskusi</a></li>
+			<li class = "last"><a href="https://scratch.mit.edu/help/">Bantuan</a></li>
 		
 		<!-- search (cari) -->
 			<li>
 				<form action="<?php $this->text( 'wgScript' ) ?>" class="search">
-					<!--<span class="glass"><i></i></span>-->
 					<input type= "submit" class= "glass" value= ""> 
 					<input type="search" id="searchInput" accesskey="f" title="Cari Scratch Indo Wiki [alt-shift-f]"  name="search" autocomplete="off" placeholder="Cari Wiki ini"  />
 					<input type="hidden" class="searchButton" id="mw-searchButton" title="Search the pages for this text" value="Search" />
@@ -201,36 +200,36 @@ foreach ( $footerlinks as $aLink ) {
             <li>
               <h4>Tentang</h4>
               <ul>
-                <li><a href ="http://scratch.mit.edu/about/">Tentang Scratch</a></li>
-                <li><a href = "http://scratch.mit.edu/parents/">Untuk Orangtua</a></li>
-                <li><a href = "http://scratch.mit.edu/educators/">Untuk Pendidik</a></li>
-                <li><a href ="http://scratch.mit.edu/jobs/">Peluang</a></li>
+                <li><a href ="https://scratch.mit.edu/about/">Tentang Scratch</a></li>
+                <li><a href = "https://scratch.mit.edu/parents/">Untuk Orangtua</a></li>
+                <li><a href = "https://scratch.mit.edu/educators/">Untuk Pendidik</a></li>
+                <li><a href ="https://scratch.mit.edu/jobs/">Peluang</a></li>
               </ul>
             </li>
             <li>
               <h4>Komunitas</h4>
               <ul>
-                <li><a href = "http://scratch.mit.edu/community_guidelines/">Pedoman Komunitas</a></li>
-                <li><a href = "http://scratch.mit.edu/discuss/">Forum Berdiskusi</a></li>
+                <li><a href = "https://scratch.mit.edu/community_guidelines/">Pedoman Komunitas</a></li>
+                <li><a href = "https://scratch.mit.edu/discuss/">Forum Berdiskusi</a></li>
                 <li><a href = "http://wiki.scratch.mit.edu/">Scratch Wiki</a></li>
-                <li><a href = "http://scratch.mit.edu/statistics/">Statistik</a></li>
+                <li><a href = "https://scratch.mit.edu/statistics/">Statistik</a></li>
               </ul>
             </li>
             <li>
               <h4>Bantuan</h4>
               <ul>
-                <li><a href = "http://scratch.mit.edu/help/">Halaman Bantuan</a></li>
-                <li><a href = "http://scratch.mit.edu/help/faq/">Tanya Jawab</a></li>
-                <li><a href = "http://scratch.mit.edu/scratch2download/">Editor Offline</a></li>
-                <li><a href = "http://scratch.mit.edu/contact-us/">Kontak Kami</a></li> 
+                <li><a href = "https://scratch.mit.edu/help/">Halaman Bantuan</a></li>
+                <li><a href = "https://scratch.mit.edu/help/faq/">Tanya Jawab</a></li>
+                <li><a href = "https://scratch.mit.edu/download/">Editor Offline</a></li>
+                <li><a href = "https://scratch.mit.edu/contact-us/">Kontak Kami</a></li> 
               </ul>
             </li>
             <li>
               <h4>Legal</h4>
               <ul>
-                <li><a href="http://scratch.mit.edu/terms_of_use/">Kebijakan Pengguna</a></li>
-                <li><a href="http://scratch.mit.edu/privacy_policy/">Kebijakan Privasi</a></li>
-                <li><a href = "http://scratch.mit.edu/DMCA/">DMCA</a></li>
+                <li><a href="https://scratch.mit.edu/terms_of_use/">Kebijakan Pengguna</a></li>
+                <li><a href="https://scratch.mit.edu/privacy_policy/">Kebijakan Privasi</a></li>
+                <li><a href="https://scratch.mit.edu/DMCA/">DMCA</a></li>
               </ul>
             </li>
             <li>
