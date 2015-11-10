@@ -229,7 +229,7 @@ foreach ( $footerlinks as $aLink ) {
               <ul>
                 <li><a href="https://scratch.mit.edu/terms_of_use/">Kebijakan Pengguna</a></li>
                 <li><a href="https://scratch.mit.edu/privacy_policy/">Kebijakan Privasi</a></li>
-                <li><a href="https://scratch.mit.edu/DMCA/">DMCA</a></li>
+                <li><a href="http://scratch-dach.info/wiki/Scratch-Wiki:Impressum">DMCA</a></li>
               </ul>
             </li>
             <li>
@@ -257,6 +257,8 @@ foreach ( $footerlinks as $aLink ) {
           </ul>
 <br>
 <p >Scratch adalah sebuah proyek dari Lifelong Kindergarten Group di MIT Media Lab</p>
+<br><br><br>
+        <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.id"><img src="http://scratch-dach.info/w/images/d/dd/Cc-by-sa_340x340.png" alt="CC-BY-SA" width="100px"></a>
 </footer>
 
         <?php $this->printTrail(); ?>
